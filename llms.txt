@@ -1,0 +1,17 @@
+# Frame365
+
+> Frame365 is a quiet, private daily photo diary and visual journal app for iOS (iPhone). It helps users capture one meaningful photo a day with a short note and automatic city location, turning everyday moments into a visual calendar, 30D–365D photo mosaic, Home Screen streak widget, and interactive world travel map.
+
+## Core Features
+- **One Frame a Day:** Distraction-free daily photo journaling without social feeds, followers, or likes.
+- **Home Screen & Lock Screen Widgets:** Displays current daily streak and the last 7 captured frames.
+- **Visual Calendar & Mosaic:** Monthly circular photo calendar and exportable 30-day / 365-day visual mosaic Story posters.
+- **Interactive Travel Map & Cities:** Automatically organizes frames by city and neighborhood on an interactive world map.
+- **Privacy-First Architecture:** Local storage and personal Apple iCloud sync with Face ID / Passcode protection. Zero external social servers.
+
+## Key Links
+- Official Website: https://frame365.vercel.app/
+- Privacy Policy: https://frame365.vercel.app/privacy
+- Terms of Use: https://frame365.vercel.app/terms
+- Support & FAQ: https://frame365.vercel.app/support
+- Contact Email: frame365.app@gmail.com
